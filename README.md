@@ -66,8 +66,8 @@ The project is divided into several notebooks, each targeting specific tasks wit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/kuanhuang0624/buscseg.git
+cd buscseg
 ```
 
 2. Follow the [VMamba](https://github.com/MzeroMiko/VMamba) GitHub to install requirements.
