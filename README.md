@@ -36,9 +36,11 @@ The project is divided into several notebooks, each targeting specific tasks wit
 - **resnet_classification.ipynb**: Classification using ResNet50.
 
 ### VGG16
-- **vgg_segmentation.ipynb**: Segmentation using a U-Net with VGG backbone.
-- **vgg_multi.ipynb**: Multi-task classification and segmentation using VGG.
-- **vgg_classification.ipynb**: Classification using VGG.
+- **vgg_segmentation.ipynb**: Segmentation using a U-Net with VGG16 
+backbone.
+- **vgg_multi.ipynb**: Multi-task classification and segmentation using 
+VGG16.
+- **vgg_classification.ipynb**: Classification using VGG16.
 
 ### SwinV2 Tiny
 - **swinv2tiny_segmentation.ipynb**: Segmentation using a U-Net with SwinV2 Tiny backbone.
