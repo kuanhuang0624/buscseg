@@ -82,11 +82,14 @@ We utilized the code from the [VMamba GitHub Repository](https://github.com/Mzer
 If you use the VMamba model, please cite the following paper:
 
 ```bash
-@article{miko2024vmamba,
-  title={VMamba: Versatile Mammogram-Based Model},
-  author={Mzero Miko},
-  journal={arXiv preprint arXiv:2401.10166},
-  year={2024}
+@misc{liu2024vmambavisualstatespace,
+      title={VMamba: Visual State Space Model}, 
+      author={Yue Liu and Yunjie Tian and Yuzhong Zhao and Hongtian Yu and Lingxi Xie and Yaowei Wang and Qixiang Ye and Yunfan Liu},
+      year={2024},
+      eprint={2401.10166},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2401.10166}, 
 }
 ```
 
